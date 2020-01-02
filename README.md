@@ -1,4 +1,4 @@
-DEMO: https://ryancurson.co.uk/sf-dropdown-menu/
+DEMO: https://ryancurson.co.uk/sf-dropdown-menu-demo
 
 # sf-drop-down-menu
 Straightforward drop-down menu made in vanilla JS
